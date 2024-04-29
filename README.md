@@ -1,2 +1,2 @@
 # sample1
-it is asample file
+it is a sample file
